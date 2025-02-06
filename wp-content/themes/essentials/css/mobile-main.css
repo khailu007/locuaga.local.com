@@ -1,0 +1,105 @@
+body {
+	font-size: 16px;
+	font-family: "Inter Locuaga", sans-serif !important;
+}
+
+/*Begin Post Details*/
+
+.wp-block-image {
+	margin-bottom: 10px;
+}
+/*Begin Post Details*/
+
+/*Pix notifications*/
+
+.pix-notification {
+	font-family: "Inter Locuaga", sans-serif !important;
+}
+
+#pills-description {
+    font-family: "Inter Locuaga", Sans-serif;
+}
+.cus-font-f {
+    font-family: "Inter Locuaga", Sans-serif;
+}
+
+h1.pix-post-title {
+    font-size: 35px!important;
+    font-family: "Inter Locuaga", Sans-serif;
+}
+span.fz-18{
+	font-size: 18px!important;
+}
+
+span.fz-16{
+	font-size: 16px!important;
+}
+
+ul {
+    list-style: inherit;
+}
+ol {
+   	font-family: "Inter Locuaga", Sans-serif;
+	margin-left: -10px;
+}
+
+ul.wp-block-list {
+    margin-left: -10px;
+}
+
+tr {
+    font-family: 'Inter Locuaga';
+}
+
+table:not(.table) tr td {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+em {
+	font-family: "Inter Locuaga", Sans-serif;
+}
+
+span.country-name {
+	font-family: "Inter Locuaga", Sans-serif;
+}
+
+/*Begin Project and Post Single*/
+#pix-entry-content p {
+    text-align: justify;
+    font-family: "Inter Locuaga", sans-serif;
+}
+
+#pix-entry-content h2 {
+    font-size: 25px;
+    color: #000;
+    margin-bottom: 5px;
+
+}
+
+#pix-entry-content h3 {
+    font-size: 22px;
+    color: #000;
+    font-family: "Inter Locuaga", Sans-serif;
+}
+
+#pix-entry-content ul li {
+    font-family: "Inter Locuaga", sans-serif;
+}
+
+.entry-content ul {
+    text-align: justify;
+}
+
+.wp-caption .wp-caption-text {
+    font-family: "Inter Locuaga", sans-serif;
+}
+
+.wp-element-caption {
+    font-family: "Inter Locuaga", sans-serif;
+}
+
+.wp-block-image {
+    margin: 10px 0 10px 0;
+}
+
+/*End Project and Post Single*/
