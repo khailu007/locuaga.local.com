@@ -1,0 +1,27 @@
+
+---Downloaded files---
+The import files for: Medical Elementor were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://locuaga.local.com
+Data file = D:\xampp7430\www\locuaga.local.com/wp-content/uploads/2025/02/demo-content-import-file_2025-02-06__05-43-07.xml
+Widget file = D:\xampp7430\www\locuaga.local.com/wp-content/uploads/2025/02/demo-widgets-import-file_2025-02-06__05-43-07.json
+Customizer file = not defined!
+Redux files:
+pix_options -> D:\xampp7430\www\locuaga.local.com/wp-content/themes/essentials/inc/demo-content/sites/medical/medical-elementor-options.json 
+
+
+---Importing widgets---
+Main Sidebar : 
+
+PixFort Search - Search - Imported
+PixFort Promo Box - Call to action - Imported
+Tag Cloud - No Title - Imported
+PixFort Recent Posts - Recent Posts - Imported
+PixFort Categories - Categories - Imported
+PixFort Social Links - Social Links - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: pix_options finished successfully!
